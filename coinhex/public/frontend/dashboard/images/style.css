@@ -1,0 +1,365 @@
+.logo img {
+    width: 80px;
+}
+.padding-top-10 {
+  padding:10px 0 0 0 ;
+}
+.filter-box-top {
+    margin-bottom: -30px;
+    display: flex;
+}
+input.form-control.multiselect-search {
+    height: 40px;
+}
+button.btn.btn-default.btn-white.btn-grey.multiselect-clear-filter {
+    height: 40px;
+}
+.dropdown-menu {
+    min-width: 200px;
+    padding: 0px;
+}
+ul.pager {
+    padding: 2px;
+    display: inline-block;
+    width: 100%;
+}
+.paginationAll {
+    text-align: center;
+}
+.small-logo img {
+    width: 100%;
+    padding: 2px;
+}
+.logout a {
+    padding-right: 10px !important;
+}
+.navbar-buttons.navbar-header.pull-right {
+    margin-right: -10px;
+}
+.rightFilterJobDetails {
+    float: right;
+    width: 40%;
+    margin-top: 10px;
+    line-height: 38px;
+}
+.boxJobDetailsAll hr {
+    margin: 10px 0;
+}
+.widget-main.box-job-details {
+    height: 150px;
+    overflow: auto;
+}
+.boxJobItemAll {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.job-item {
+    margin-top: 40px;
+}
+.addBttn {
+    text-align: right;
+}
+.table-header {
+    margin-bottom: 15px;
+}
+span.view-download {
+    float: right;
+    margin-right: 10px;
+}
+.checkbox label, .radio label {
+    padding-left: 10px;
+}
+.table-responsive {
+    overflow: auto !important;
+}
+.input-fld {
+    width: 100%;
+}
+.modal-footer {
+    padding: 10px;
+    text-align: center;
+}
+.modal-header {
+    padding: 10px;
+    border-bottom: 1px solid #E4E9EE;
+    background-color: #EFF3F8;
+}
+h5.total-clint {
+    margin-bottom: -20px;
+    color: #438EB9;
+}
+
+table.table.table-vcenter.table-condensed.table-bordered.serch {
+    background: #EFF3F8;
+}
+
+.width-22{
+  width: 22px !important;
+}
+.width-22 i{
+  font-size: 12px !important;
+}
+.tmLd-srch {
+
+  margin: 0 auto;
+}
+.tmLd-srch button.multiselect.dropdown-toggle.btn.btn-white.btn-primary {
+    width: 100%;
+}
+.tmLd-srch .btn-group {
+    width: 100%;
+}
+
+.tmLd-srch {
+    margin-bottom: 20px;
+}
+.add .in-text {
+    margin-bottom: 0;
+    margin-top: 8px;
+}
+.jobViewBlock .widget-box {
+    margin-bottom: 20px;
+}
+.setting-sev-bttn{
+  margin-top: 25px;
+   height: 35px;
+   line-height: 10px
+  }
+
+
+
+/* Responsive Bijoyan */
+@media only screen and (max-width: 767px) {
+  .serchclie input.form-control {
+    width: 142px;
+    display: block;
+}
+  .rightFilterJobDetails {
+    width: 100%;
+    text-align: center;
+}
+  .filter-box-top {
+      margin-bottom: 0;
+      display: flex;
+  }
+  .nav-tabs>li>a {
+    padding: 7px 10px 8px;
+}
+.col-xs-6.pgination {
+    width: 100%;
+    text-align: center;
+}
+.dataTables_filter, .dataTables_paginate {
+    text-align: center;
+}
+}
+@media only screen and (min-width: 768px){
+#bill-invoice .modal-dialog {
+    width: 700px;
+    margin: 30px auto;
+}
+}
+
+
+a.close-mobile{
+    position: absolute;
+    top: 7px;
+    right: 10px;
+	cursor:pointer;
+}
+
+/* new customize css Rasel
+=======================================*/
+.navbar {
+    background: #F8F6FF;
+}
+.ace-nav > li.light-blue > a {
+    background-color: #1f4c6a;
+}
+.transparent>.widget-header>.widget-toolbar>.nav-tabs>li.active>a {
+    
+    border-right: 2px solid #C5D0DC;
+    border-left: 2px solid #C5D0DC;
+}
+.tab-content {
+    border: 5px solid #f5f5f5 !important;
+    padding: 16px 12px;
+    position: relative;
+    box-shadow: 1px 1px 3px 3px rgba(52, 86, 118, 0.12);
+    border-radius: 3px;
+
+}
+.table-header {
+    background-color: #fff;
+    color: #f44336;
+    font-size: 14px;
+    line-height: 38px;
+    padding-left: 12px;
+    box-shadow: 0 5px 5px rgba(62, 57, 107, 0);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.widget-body .table thead:first-child tr {
+    background: #307ec9;
+    color: #ffffff;
+    border-bottom: 5px solid #345676;
+}
+.table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border-bottom-width: 0px; 
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f8f6ff;
+}
+.table.table-bordered>thead>tr>th {
+    vertical-align: middle;
+    font-size: 13px;
+}
+.table-hover thead tr th {
+    border: 0px;
+    padding: 12px;
+}
+.table-hover tbody tr td {
+    border: 0px;
+    padding: 12px;
+    border-bottom: 3px solid #eee;
+}
+.table-hover tbody tr td a {
+    font-size: 16px;
+    color: #07395a;
+}
+.breadcrumbs {
+    background-color: #f8f6ff;
+}
+.btn{
+    border-radius: 3px;
+}
+.btn-white.btn-primary{
+    border-radius: 3px;
+}
+
+.no-skin .sidebar {
+    background-color: #f8f6ff;
+    border-color: #f8f6ff;
+}
+.nav-list>li{
+	border-style: none;
+}
+.nav-list>li:before{
+	height: 51px;
+}
+.hr-18, .hr18{
+	display: none;
+}
+.nav-list>li>a>.menu-icon{
+	float: left;
+	line-height: 25px;
+}
+.no-skin .nav-list > li > a {
+    background-color: #103147;
+    color: #fff;
+    display: block;
+    /* padding-bottom: 16px !important; */
+    height: 51px;
+    line-height: 22px;
+}
+/*new color: #07395A, main: #307EC9*/
+.no-skin .nav-list > li:hover > a {
+    background-color: #fff;
+    color: #07395A;
+    border:1px solid #07395a;
+}
+.no-skin .nav-list > li.active > a {
+    color: #07395A !important;
+}
+.table > thead > tr {
+    color: #fff;
+    background: #07395A !important;
+    
+}
+.no-skin .sidebar-shortcuts {
+    background-color: #F8F6FF;
+    margin-top: -44px;
+}
+.btn-primary, .btn-primary.focus, .btn-primary:focus {
+    background-color: #07395A !important;
+    border-color: #07395A;
+}
+.btn-info, .btn-info.focus, .btn-info:focus {
+    background-color: #07395AE6 !important;
+    border-color: #07395AE6;
+}
+.btn, .btn-default, .btn-default.focus, .btn-default:focus, .btn.focus, .btn:focus {
+    background-color: #1F4C6A !important;
+    border-color: #093B5C;
+}
+.btn-success, .btn-success.focus, .btn-success:focus {
+    background-color: #008000b3 !important;
+    border-color: #008000b3;
+}
+.no-skin .navbar .navbar-toggle {
+    background-color: #216792;
+}
+.block-title h2 {
+	text-align: center;
+	margin-bottom: 23px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #103147;
+}
+.footer{
+	position: relative !important;
+}
+/*new responsive css Rasel
+======================================*/
+@media only screen and (max-width: 360px) {
+    .form-group button {
+    width: 194px;
+}
+.select-drodown.form-group.filter-box-top {
+    margin-left: 34px;
+}
+.widget-toolbar>.nav-tabs>li {
+    width: 99px;
+    background: #e2e2e2;
+}
+.widget-toolbar>.nav-tabs>li>a{
+    color: #fff;
+}
+select.form-control {
+    padding: 4px 14px;
+}
+
+
+}
+
+@media only screen and (width: 375px) {
+
+select.form-control {
+    padding: 4px 14px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+    .form-group button {
+    width: 194px;
+}
+.select-drodown.form-group.filter-box-top {
+    margin-left: 34px;
+}
+.widget-toolbar>.nav-tabs>li {
+    width: 82px;
+    background: #e2e2e2;
+    border-right: 3px solid #1f4c6a45 !important;
+}
+.widget-toolbar>.nav-tabs>li a{
+    color: #fff;
+}
+select.form-control {
+    padding: 4px 14px;
+}
+
+}
+

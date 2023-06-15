@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">    
+<head>       
+    <meta charset="UTF-8">  
+    <!-- Responsive Meta -->                    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- favicon & bookmark -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"  href="images/fav.png" type="image/x-icon" /> 
+    <link rel="icon" href="images/fav.png"> 
+    <!-- Font Family -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Unica+One&display=swap" rel="stylesheet">
+    <!-- Website Title -->
+    <title>Hilite Coin </title>
+    <!-- Stylesheets Start -->
+    <link rel="stylesheet" href="css/fontawesome.min.css" type="text/css"/>
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css"/>
+    <link rel="stylesheet" href="css/animate.css" type="text/css"/>
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css"/>
+    <link rel="stylesheet" href="css/vegas.css" type="text/css"/> 
+    <link rel="stylesheet" href="css/slick.css" type="text/css"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+     <!-- Stylesheets End -->
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    
+</head>
+<body>
+    <!--Main Wrapper Start-->
+    <div class="wrapper" id="top">
+        <!--Header Start --> 
+        <header>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-sm-2 col-md-2 logo">
+                        <a href="index.html" title="Thumb">
+                            <img class="light" src="images/logo.png" alt="Logo">
+                            <img class="dark" src="images/dark-logo.png" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="col-sm-10 col-md-10 main-menu">
+                        <div class="menu-icon">
+                          <span class="top"></span>
+                          <span class="middle"></span>
+                          <span class="bottom"></span>
+                        </div>
+                        <nav class="onepage">
+                            <ul>
+                                <li class="active"><a href="index.html">Hilite Coin</a></li>
+                                <li><a href="#about">About</a></li> 
+                                <li><a href="#token">Tokenomics</a></li>
+                                <li><a href="#team">Teams</a></li>
+                                <li><a href="#roadmap">RoadMap</a></li> 
+                                <li><a href="#faq">Faq</a></li> 
+                                <li><a href="#contact ">Contact </a></li> 
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!--Header End-->
+ 
+        <!-- Content Section Start -->   
+        <div class="midd-container">
+            <!-- Hero Section Start -->   
+            <div class="hero-main" id="hero-slider" style="background-image: url('images/hero/thumb1.jpg');">
+                <div class="hero_table">
+                    <div class="hero_cell">
+                        <div class="container">
+                            <div class="row hero_row align-items-center"> 
+                                <div class="col-sm-12 col-md-7">
+                                    <h1 class="wow fadeInUp" data-wow-delay="0.1s">Hilite Coin</h1>
+                                    <h2 class="wow fadeInUp" data-wow-delay="0.2s">Participate, grow, serve for humanity</h2> 
+                                    <p class="lead wow fadeInUp" data-wow-delay="0.3s">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ullam, sunt quibusdam voluptate veritatis sint necessitatibus amet, nesciunt vel dicta rerum est natus qui labore aperiam reprehenderit in impedit consectetur?</p>
+
+                                    <div class="hero_btns justify-content-between my-5"> 
+                                        <a href="#" class="btn wow fadeInUp" data-wow-delay="0.6s">Buy Hilite</a>
+                                        <a href="#" class="btn wow fadeInUp" data-wow-delay="0.8s">PRIVATE SALE</a>
+                                    </div>  
+                                </div>
+                                <!-- .col-md-7 -->
+                                <div class="col-lg-5 col-md-4 py-5 d-none d-md-block">
+                                    <div class="hero-thumbnail wow fadeIn" data-wow-delay="0.6s">
+                                        <img src="images/letter-h.png" alt="" />
+                                    </div>
+                                </div>
+
+                            </div>  
+                        </div>
+                    </div>
+                </div> 
+            </div>
+            <!-- Hero Section End -->  
+            
+            <!-- Benefits Start -->
+            <div class="benefits p-tb">
+                <div class="container">
+                    <div class="sec-title text-center wow fadeInUp" data-wow-delay="0.1s"><h3>Hilite Coin ECOSYSTEMS</h3></div>
+                    <div class="sub-txt text-center">
+                        <p class=" wow fadeInUp" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. </p>
+                    </div>
+                </div>
+                <div class="container"> 
+                    <div class="benefits-boxes align-items-center row"> 
+                        <div class="col-md-5 wow fadeIn" data-wow-delay="0.2s">
+                            <div class="pre-sale-timer">
+                                <div>
+                                    <h3>Pre-Sale <span>will end in</span></h3>
+                                    <div id="clock" data-date="2022/12/31 17:29:31"></div>
+                                    <div class="hero-right-btn"><a class="btn" href="#">Buy Tokens Now</a></div>
+                                    <div class="rang-slider-main">
+                                        <div class="rang-slider-toltip">
+                                            <span>Soft Cap <strong>$000000</strong></span>
+                                            <span>Hard Cap <strong>$000000</strong></span>
+                                        </div>
+                                        <div class="rang-slider">
+                                            <div class="rang-line">
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                        <div class="rang-slider-total">
+                                           <span>Total raised <strong>$91,000</strong></span>
+                                           <div class="rangTotal">91<small>%</small></div>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <!-- col-md-5 -->
+                        <div class="col-md-7">
+                            <div class="item wow fadeIn" data-wow-delay="0.1s">
+                                <div class="bf-image">
+                                    <img src="images/icon-1.png" alt="Read Time Update">
+                                </div>
+                                <div class="bf-details"> 
+                                    <h4>ONE MARKETPLACE</h4>
+                                    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.</h5>
+                                </div>
+                            </div>
+                            <!-- item -->
+                            <div class="item wow fadeIn" data-wow-delay="0.3s">
+                                <div class="bf-image">
+                                    <img src="images/trust.png" alt="Read Time Update">
+                                </div>
+                                <div class="bf-details"> 
+                                    <h4>TRANSPARENCY AND TRUST</h4>
+                                    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.</h5>
+                                </div>
+                            </div>
+                            <!-- item -->
+                            <div class="item wow fadeIn" data-wow-delay="0.5s">
+                                <div class="bf-image">
+                                    <img src="images/profile-picture.png" alt="Read Time Update">
+                                </div>
+                                <div class="bf-details"> 
+                                    <h4>BLOCKCHAIN BASED PROFILES</h4>
+                                    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.</h5>
+                                </div>
+                            </div>
+                            <!-- item -->
+                            <div class="item wow fadeIn" data-wow-delay="0.7s">
+                                <div class="bf-image">
+                                    <img src="images/money.png" alt="Read Time Update">
+                                </div>
+                                <div class="bf-details"> 
+                                    <h4>PAYMENT FLEXIBILITY</h4>
+                                    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.</h5>
+                                </div>
+                            </div>
+                            <!-- item -->
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <!-- Benefits End -->
+
+            <!--About Start -->
+            <div class="about-section has-color" id="about">
+                <div class="container">
+                    <div class="row align-items-center wow fadeIn" data-wow-delay="0.2s">
+
+                        <div class="col-lg-4 col-md-12">
+                            <div class="about_thumb">
+                                <img src="images/about.png" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-8 col-md-12">
+                            <h3 class="section-heading">About Hilite Coin</h3> 
+                            <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae libero repellendus incidunt vero consequuntur, possimus quibusdam tempore reiciendis, molestias neque, molestiae, sit. Quod, recusandae. Veritatis neque cum repellat aspernatur voluptates. Ipsam deserunt iste quo enim quos odio itaque reiciendis placeat nesciunt tempore?</p> 
+                            <p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Eligendi quia dolorum odit repellat aliquid, enim ex eveniet iure soluta voluptatibus tenetur ab, quaerat mollitia at praesentium molestias veritatis aperiam dicta.</p>
+                            <p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Eligendi quia dolorum odit repellat aliquid, enim ex eveniet iure soluta voluptatibus tenetur ab, quaerat mollitia at praesentium molestias veritatis aperiam dicta.</p>
+
+                        </div> 
+                    </div>
+                    <!-- row -->
+                </div>
+                <!-- container -->
+            </div>
+            <!--About end -->
+  
+            <!-- Token Sale start -->
+            <div class="token-sale p-tb" id="token">
+                <div class="container wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="sec-title text-center"><h3>Tokenomics</h3></div>
+                    <div class="sub-txt text-center mb-5">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, molestias. Eligendi ea amet eius, atque, molestiae deleniti ab quae cumque.</p>
+                    </div> 
+                </div>
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="token-sale-box">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="sale-box">
+                                            <h4 class="text-uppercase">Token Name</h4>
+                                            <h5>Hilite Coin</h5>
+                                        </div>
+                                    </div> 
+                                    <!-- col-lg-6 -->
+                                    <div class="col-lg-6">
+                                        <div class="sale-box">
+                                            <h4 class="text-uppercase">Quantity</h4>
+                                            <h5>1 thrillion</h5>
+                                        </div>
+                                    </div> 
+                                    <!-- col-lg-6 -->
+                                    <div class="col-lg-6">
+                                        <div class="sale-box">
+                                            <h4>Decimal</h4>
+                                            <h5>8</h5>
+                                        </div>
+                                    </div> 
+                                    <!-- col-lg-6 -->
+                                    <div class="col-lg-6">
+                                        <div class="sale-box">
+                                            <h4>Country</h4>
+                                            <h5> USA</h5>
+                                        </div>
+                                    </div> 
+                                    <!-- col-lg-6 -->
+                                </div> 
+                                <!-- row -->
+                            </div>
+                            <!-- token-sale-box -->
+                        </div>
+                        <!-- col-lg-6 -->
+                        <div class="col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="sale-chart-view">
+                                <div class="doughnut">
+                                    <div class="doughnutChartContainer">
+                                        <canvas id="doughnutChart" height="270"></canvas>
+                                    </div>
+                                    <div id="legend" class="chart-legend"></div>
+                                 </div>
+                            </div>
+                        </div>  
+                        <!-- col-lg-6 -->
+                    </div>
+                    <!-- row --> 
+                </div>
+                <!-- container -->
+            </div>
+            <!-- Token Sale end -->
+
+            <div class="video_section has-color" style="background: url('images/video/video_bg.jpg');">
+                <div class="container">
+                    <div class="sec-title text-center wow fadeInUp" data-wow-delay="0.1s"><h3>HOW TO BUY</h3></div>
+                    <div class="sub-txt text-center mb-5 wow fadeInUp" data-wow-delay="0.2s">
+                        <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, laborum. </h4>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 m-md-auto"> 
+                            <div class="video_frame wow fadeIn" data-wow-delay="0.4s">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/GSTiKjnBaes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <!-- video_frame --> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- video_section -->
+   
+            <!-- The Roadmap  start-->
+            <div class="roadmap-sec p-tb " id="roadmap">
+                <div class="container">
+                    <div class="text-center wow fadeInUp" data-wow-delay="0.1s"><h3 class="section-heading">Road Map</h3></div>
+                    <div class="sub-txt text-center wow fadeInUp" data-wow-delay="0.2s">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.</p>
+                    </div>
+                    <div class="roadmap-live-slider">
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.9s">
+                            <div>
+                                <span class="roadmap-date">March 2022</span>
+                                <h4>Crypto ICO Platform Idea</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.8s">
+                            <div>
+                                <span class="roadmap-date">May 2022</span>
+                                <h4>Technical Devlopment</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.7s">
+                            <div>
+                                <span class="roadmap-date">July 2022</span>
+                                <h4>ICO Realease</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.6s">
+                            <div>
+                                <span class="roadmap-date">August 2022</span>
+                                <h4>Beta Version of Crypto ICO</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.5s">
+                            <div>
+                                <span class="roadmap-date">October 2022</span>
+                                <h4>Development Kit for Integrations</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div>
+                                <span class="roadmap-date">November 2022</span>
+                                <h4>World Coin Index</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-item wow fadeInUp" data-wow-delay="0.31s">
+                            <div>
+                                <span class="roadmap-date">December 2022</span>
+                                <h4>Online & Trading ICO</h4>
+                                <span class="live-mark">Live Now</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- The Roadmap end-->
+          
+            <!-- Team sec start-->
+            <div class="team-section p-t light-gray-bg" id="team">
+                <div class="container">
+                    <div class="text-center wow fadeInUp mb-4" data-wow-delay="0.1s"><h3 class="section-heading">Core Team</h3></div>
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-9.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul> 
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text">
+                                    <h4 data-toggle="modal" data-target="#team1">Andy Sant</h4>
+                                    <span>Founder & CEO</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-10.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul> 
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Mehedi Haasan</h4>
+                                    <span>Design And Developer</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-12.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul> 
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text" data-toggle="modal" data-target="#team1">
+                                    <h4>Saru Matt</h4>
+                                    <span>Marketing Officer</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-11.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul> 
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text" data-toggle="modal" data-target="#team1">
+                                    <h4>Cyrus Nato</h4>
+                                    <span>Lead Product Manager</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="team-minimal-section p-tb white-sec">
+                <div class="container">
+                    <div class="text-center wow fadeInUp mb-4" data-wow-delay="0.7s"><h3 class="section-heading"><span>Advisory Team</span></h3></div>
+                    <div class="row wow fadeInUp" data-wow-delay="0.9s">
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-7.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Helen Ansley</h4>
+                                    <span>Нead of Investor</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-4.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Cecil Casey</h4>
+                                    <span>Head of Marketing</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-3.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Sylvia Neal</h4>
+                                    <span>ICO Specialist</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-8.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Teresa Pacheco</h4>
+                                    <span>Community Manager</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-5.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Elvin Poe</h4>
+                                    <span>Marketing Officer</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="team-box">
+                                <div class="team-img">
+                                    <img src="images/team-6.jpg" alt="">
+                                    <div class="team-social">
+                                        <ul>
+                                            <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="text"  data-toggle="modal" data-target="#team1">
+                                    <h4>Jorge Meza</h4>
+                                    <span>Suppot</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Team sec end-->
+ 
+
+            <!-- Modal -->
+            <div class="modal fade" id="team1" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <span  class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </span>
+                  </div>
+                  <div class="modal-body py-0">
+                    
+                    <div class="team-box team_details text-left mt-0">
+                        <div class="team-img">
+                            <img src="images/team-10.jpg" alt="">
+                            <div class="team-social">
+                                <ul>
+                                    <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="text mb-3"  data-toggle="modal" data-target="#team1">
+                            <h4>Cecil Casey</h4>
+                            <span>Head of Marketing</span>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing, elit. Exercitationem veniam eaque nesciunt consequatur maxime earum itaque animi ex omnis vero?</p>
+                    </div>
+                  </div> 
+                </div>
+              </div>
+            </div>
+
+             <!-- FAQ Section start-->
+            <div class="faq-section p-tb" id="faq">
+                <div class="container">
+                    <div class="text-center mb-5"><h3 class="section-heading">Frequently Asked Questions</h3></div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Accordion wrapper-->
+                            <div class="accordion md-accordion style-2" id="accordionEx" role="tablist" aria-multiselectable="true">
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingOne1">
+                                        <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
+                                            <h5 class="mb-0">
+                                                When would I be able to see my token balance? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. 
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingTwo2">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+                                            <h5 class="mb-0">
+                                                Is it possible for the citizens or residents of the US to participate in the Token Sale? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingThree3">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                                            <h5 class="mb-0">
+                                                Is there a KYC process involved? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingFour4">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseFour4" aria-expanded="false" aria-controls="collapseFour4">
+                                            <h5 class="mb-0">
+                                                What will happen to the unsold tokens? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseFour4" class="collapse" role="tabpanel" aria-labelledby="headingFour4" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingFive5">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseFive5" aria-expanded="false" aria-controls="collapseFive5">
+                                            <h5 class="mb-0">
+                                                Which cryptocurrencies can I use to participate in the Token Sale? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseFive5" class="collapse" role="tabpanel" aria-labelledby="headingFive5" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingSix6">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseSix6" aria-expanded="false" aria-controls="collapseSix6">
+                                            <h5 class="mb-0">
+                                                Are there any restrictions that involve a minimum or a maximum transaction limit? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseSix6" class="collapse" role="tabpanel" aria-labelledby="headingSix6" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                                <!-- Accordion card -->
+                                <div class="card">
+                                    <!-- Card header -->
+                                    <div class="card-header" role="tab" id="headingSeven7">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseSeven7" aria-expanded="false" aria-controls="collapseSeven7">
+                                            <h5 class="mb-0">
+                                                Where is the company registered? Where is the Coinpool office located? <i class="fas fa-caret-down rotate-icon"></i>
+                                            </h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapseSeven7" class="collapse" role="tabpanel" aria-labelledby="headingSeven7" data-parent="#accordionEx">
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique.  Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+
+                            </div>
+                            <!-- Accordion wrapper -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQ Section end--> 
+
+            <div class="contact-section p-b p-t wow fadeIn" data-wow-delay="0.1s" id="contact">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-10 text-center">
+                            <div class="sec-title text-center">
+                                <h3>Drop us a message now!</h3>
+                            </div>
+                            <form action="" method="">
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <input type="text" class="form-control" placeholder="Your Name" required>
+                                    </div> 
+                                    <div class="form-group col-md-6">
+                                        <input type="email" class="form-control" placeholder="Email address*" required>
+                                    </div>
+                                </div> 
+                                <div class="form-group">
+                                    <textarea class="form-control" rows="6" placeholder="Your Message"></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="btn">Send Message</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-1"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- contact-section -->
+ 
+        </div>
+        <!-- Content Section End -->   
+        <div class="clear"></div>
+        <!--footer Start-->   
+        <footer class="footer-area has-color">
+            <div class="footer-widget-area text-center">
+                <div class="container">
+                    <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                         
+                            <div class="widget">
+                                <div class="footer-logo wow fadeInUp" data-wow-delay="0.3s">
+                                    <a href="#" title=""><img src="images/logo.png" alt="Thumb"></a>
+                                </div> 
+                            </div> 
+                        </div>
+                    </div>
+                    <!-- row -->
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="socials">
+                                <ul>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a class="github" href="#"><i class="fab fa-github-alt"></i></a></li>
+                                    <li><a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a class="bitcoin" href="#"><i class="fab fa-btc"></i></a></li>
+                                    <li><a class="youtube" href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a class="medium" href="#"><i class="fab fa-medium-m"></i></a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- row -->
+                </div>
+                <!-- container -->
+            </div> 
+
+            <div class="copyright">
+                © All Right Researved 2021 Hilite Coin 
+            </div>
+        </footer>
+        <!--footer end-->   
+    </div>
+    <!--Main Wrapper End-->
+ 
+    <script src="js/jquery.min.js"></script> 
+    <script src="js/jquery.countdown.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/onpagescroll.js"></script>
+    <script src="js/wow.min.js"></script> 
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/vagas.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/Chart.js"></script>
+    <script src="js/chart-function.js"></script> 
+    <script src="js/script.js"></script> 
+ 
+
+</body>
+</html>

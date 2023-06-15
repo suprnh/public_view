@@ -1,0 +1,354 @@
+
+/*screen size 1024px Rasel works
+==============================================*/
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+
+.video-box-s3 iframe {
+    width: 95% !important;
+}
+.about-section ul li.nav-item a{
+    font-size: 14px !important;
+    margin-right: 5px;
+}
+.toktmln-item {
+	width: 225px;
+}
+.tab-s4 .nav-tabs{
+	padding-top: 10px 30px !important;
+}
+.tab-s4 ul li a {
+    padding: 3px 15px !important;
+}
+.tkn-crt::before {
+    content: '';
+    border-left: 509px solid transparent;
+    border-right: 557px solid transparent;
+    border-bottom: 530px solid #fd990017;
+}
+.tkn-crt::before {
+    left: 4% !important;
+}
+
+}
+
+
+/*screen size 768px Rasel works
+==============================================*/
+@media only screen and (min-width: 767px) and (max-width: 1024) and (orientation: portrait){
+    .nabar-area{
+        margin-left: 0px !important;
+        height: 50px !important;
+    }
+
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1024) and (orientation: portrait){
+	.nabar-area{
+		margin-left: 0px !important;
+        height: 50px !important;
+	}
+	.translator-margin {
+    margin-top: 53px !important;
+}
+.translatorr a img{
+    margin-top: 26px;
+}
+.io-zinnia .navbar-toggler {
+    margin-right: 45px !important;
+}
+
+	.goog-te-gadget-simple{
+		margin-left: 2px;
+	}
+	.banner-content{
+		padding-bottom: 50px;
+	}
+	.hr-social-mid{
+		top: 37% !important;
+	}
+	.header-txt p {
+    margin-bottom: 2px;
+}
+
+.presale-countdown {
+	margin-left: -1px !important;
+}
+.about-section ul li a {
+    font-size: 14px !important;
+
+    margin-right: 5px;
+}
+	
+
+.tab-s4 .nav-tabs{
+	padding-top: 10px 30px;
+}
+.tab-s4 ul li a {
+    padding: 3px 15px !important;
+}
+.toktmln-list {
+    margin-left: 82px !important;
+}
+
+.tokdis-list {
+    margin-left: -58px !important;
+}
+a.nav-link.btn.in-block.btn-sm.btn-outline.menu-link.no-linee {
+    margin-top: -8px;
+    margin-bottom: 16px;
+}
+.toktmln-item div span:last-child {
+    margin-left: -28px;
+}
+
+
+
+}
+
+
+
+/*width 320px
+======================================*/
+
+@media only screen and (width: 320px) {
+    .site-header .navbar.is-transparent{
+        height: 60px;
+    }
+    .io-zinnia .site-header .navbar.is-transparent.active{
+        height: 481px;
+    }
+
+.site-header .navbar-brand img {
+	max-width: 55% !important;
+}
+.io-zinnia .navbar-toggler {
+    margin-left: 25px;
+    margin-top: 2px;
+}
+.header-txt a {
+    width: 1px !important;
+    margin-top: 5px;
+}
+.goog-te-gadget-simple{
+	margin-top: -4px;
+}
+.clockdetails {
+    margin-left: 5px;
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.presale-countdown .token-countdown {
+    margin: 0 10px;
+}
+.track-progress.progress {
+    width: 90%;
+    margin-left: 17px;
+}
+.track-progress.progress .start-point {
+    left: 54px;
+}
+a.nav-link.btn.in-block.btn-sm.btn-outline.menu-link.ico-bttn.animated.no-linee.fadeInUp {
+    margin-left: 76px;
+}
+.io-zinnia .banner {
+    padding-bottom: 89px;
+}
+.video-box-s3 h3 {
+    font-size: 15px;
+}
+.io-zinnia .text-block h2 {
+    font-size: 14px;
+}
+.toktmln-list {
+    margin-left: 19px;
+}
+pro-text p {
+    margin-top: 6px !important;
+    line-height: 20px !important;
+}
+.whole-sectionnn{
+	min-height: 732px !important;
+}
+.toktmln-item div span:last-child {
+    margin-left: -31px;
+}
+
+}
+
+
+/*width 360px  works */
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+     .site-header .navbar.is-transparent{
+        height: 60px;
+    }
+    .io-zinnia .site-header .navbar.is-transparent.active{
+        height: 481px;
+    }
+
+
+	.io-zinnia .navbar-toggler {
+	margin-left: 31px !important;
+}
+.translator-margin {
+	margin-top: 43px !important;
+}
+a.nav-link.btn.in-block.btn-sm.btn-outline.menu-link.no-linee {
+    margin-top: -2px;
+}
+.presale-countdown {
+	margin-left: -10px;
+	margin-top: 36px;
+	padding-left: 24px;
+	padding-right: 23px;
+	padding-top: 20px;
+}
+.presale-countdown .token-countdown {
+    margin: 0 7px;
+}
+.start-point span {
+    margin-left: 70px;
+}
+.toktmln-list {
+    margin-left: 36px;
+}
+.tokdis-list {
+    margin-left: -40px;
+}
+.whole-sectionnn{
+	min-height: 732px !important;
+}
+.pro-text p {
+    margin-top: 8px;
+}
+.io-zinnia .banner {
+    padding-bottom: 90px;
+}
+.toktmln-item div span:last-child {
+    margin-left: -31px;
+}
+
+}
+/*with 374 works*/
+@media only screen and (min-width: 374px) and (max-width: 667px) {
+    .site-header .navbar.is-transparent{
+        height: 75px;
+    }
+    .io-zinnia .site-header .navbar.is-transparent.active{
+        height: 481px;
+    }
+	.site-header .navbar-brand img {
+	max-width: 70% !important;
+}
+.io-zinnia .navbar-toggler {
+	margin-left: 25px;
+    margin-top: 20px;
+}
+.presale-countdown {
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.presale-countdown .token-countdown {
+    margin: 0 17px;
+    font-size: 30px;
+}
+.presale-countdown a {
+    margin-left: 87px;
+}
+.translator-margin {
+    margin-top: 80px !important;
+}
+.translatorr {
+    margin-top: -35px !important;
+   }
+.translatorr a {
+    margin-left: -92px;
+}
+.goog-te-gadget-simple{
+   	margin-left: -115px !important;
+   }
+.slider-hd {
+    margin-top: 30px;
+}
+.hr-social {
+    padding: 0 25px;
+    border-radius: 77px;
+    width: 94%;
+}
+.io-zinnia .banner {
+    padding-bottom: 89px;
+}
+
+
+}
+
+/* screen 375 need to test if works*/
+
+@media only screen and (width: 375) and (max-width: 812px) {
+	.site-header .navbar-brand img {
+	max-width: 55% !important;
+}
+.translator-margin {
+	margin-top: 70px !important;
+	margin-left: -278px;
+}
+
+.start-point span {
+	margin-left: 70px;
+}
+.presale-countdown h6 {
+	padding-top: 20px !important;
+}
+
+}
+/*screen size 411px Rasel works
+==============================================*/
+@media only screen and (min-width: 411px) and (max-width: 823px){
+	.presale-countdown {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+span.start-point span {
+    margin-left: 84px;
+}
+.toktmln-list{
+	margin-left: 66px !important;
+}
+}
+
+/*screen size 414px Rasel works
+==============================================*/
+@media only screen and (min-width: 414px) and (max-width: 736px){
+	.presale-countdown {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+}
+
+/*786*/
+@media only screen and (min-width: 767px) and (max-width: 1024) and (orientation: portrait){
+    .site-header .navbar.is-transparent{
+        height: 65px;
+        z-index: 5 !important;
+    }
+
+.io-zinnia .navbar-toggler {
+    margin-right: 45px !important;
+}
+.tokdis-list {
+    margin-left: -53px !important;
+    /* text-align: left !important; */
+}
+
+}
+
+
+
+
+
+
+
+
+

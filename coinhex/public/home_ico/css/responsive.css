@@ -1,0 +1,485 @@
+/* responsive */
+
+ @media only screen and (min-width:768px) and (max-width:1024px) {
+
+  .menu_btn_social {
+    display: inline-block !important;
+  }
+  .about_sec p {
+    width: 100%;
+    text-align: left;
+  }
+  .pantomm h2 {
+    font-size: 22px; 
+  }
+  .pantomm .btn {
+    margin-right: 0px;
+    margin-left: 0px; 
+  }
+  .pantomm {
+    padding: 0;
+  }
+  .panthom_text span {
+    font-size: 18px;
+  }
+  .all_footer_items {
+    display: block; 
+    text-align: center;
+  }
+  .copyright-nav a {
+    display: inline-block;
+  }
+  .copyright-nav {
+      display: inline-block;
+  }
+  .foot_logo {
+      display: block; 
+  }
+  .main-navbar .navbar-brand img {
+    margin-left: 0;
+  }
+  .top_btn {
+    margin-top: 30px;
+  }
+  .sale-chart-view {
+    padding: 10px 20px; 
+  }
+  .doughnut { 
+    display: block; 
+  }
+  .doughnutChartContainer { 
+    left: -71px;
+    top: -29px;
+  }
+ } 
+
+ @media only screen and (min-width:375px) and (max-width:667px) {
+  .download-sub-container {
+    width: 100%;
+}
+.token_chartt img {
+  width: 100%;
+}
+
+  .clock_area {
+}
+#clock li {
+    padding: 0 8px;
+  }
+  #clock ul {
+    margin: 0 -8px;
+  }
+  #clock li span {
+    font-size: 30px;
+    padding: 10px 2px;
+  }
+  #clock li span em {
+    font-size: 14px;
+  }
+  .pre-sale-timerr h3 {
+    font-size: 18px; 
+  }
+
+  .main-header {
+    height: 1180px;
+  }
+  .rang-slider-toltip strong { 
+    font-size: 16px; 
+  }
+  .about_text p {
+      width: 100%;
+  }
+  .main-header .header-title h1 {
+      font-size: 30px;
+  }
+  .sale-chart-view{
+    display: table;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 30px 0px !important;
+  }
+  .doughnut .chart-legend li .doughnut-legend-text, .doughnut .chart-legend li .line-legend-text{
+    font-size:16px; 
+  }
+  .doughnut {
+    display: block;
+  }
+  .doughnut .chart-legend {
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .doughnutChartContainer {
+    margin-right: 0;
+    margin: 0 auto;
+  }
+  /* roadmap */
+    .rbrm-line-wrapper { 
+    left: calc(0% - .05rem); 
+  }
+  .rbrm-dot-wrapper { 
+      left: 0%; 
+  }
+  .rbrm-item__col-title {
+    width: 100%;
+    padding-right: 0px; 
+    margin-left: 35px;
+  }
+  .rbrm-item { 
+    display: block;
+    justify-content: left; 
+  }
+  .rbrm-item__date { 
+    text-align: left;
+  }
+  .headline-4 { 
+    font-size: 22px;
+    text-align: left;
+  }
+  .rbrm-item__col-text {
+    width: 100%;
+    padding-left: 35px; 
+  }
+  .whitepaper_btn a {
+    padding: 25px 40px;
+  }
+  .buy_btn {
+    padding: 18px 40px;
+  }
+  .menu_btn_social {
+    display: inline-block !important;
+  }
+  .about_sec p {
+    width: 100%;
+    text-align: left;
+  }
+
+  .pantomm h2 {
+    font-size: 22px; 
+  }
+
+  .pantomm .btn {
+    margin-right: 0px;
+    margin-left: 0px; 
+  } 
+  .pantomm {
+    padding: 0;
+  }
+
+  .panthom_text span {
+    font-size: 18px;
+  }
+  .all_footer_items {
+    display: block; 
+    text-align: center;
+  }
+  .copyright-nav a {
+    display: inline-block;
+  }
+  .copyright-nav {
+      display: inline-block;
+  }
+  .foot_logo {
+      display: block; 
+  }
+  .main-navbar .navbar-brand img {
+    margin-left: 0;
+  }
+  .top_btn {
+    margin-top: 30px;
+  }
+  .sale-chart-view {
+    padding: 10px 20px; 
+  }
+  .doughnut { 
+    display: block !important; 
+  }
+  .doughnutChartContainer { 
+    left: -71px;
+    top: -29px;
+  }
+ }
+@media only screen and (min-width:360px) and (max-width:740px){
+  .download-sub-container {
+    width: 100%;
+}
+.token_chartt img {
+  width: 100%;
+}
+
+  #clock li {
+    padding: 0 8px;
+  }
+  #clock ul {
+    margin: 0 -8px;
+  }
+  #clock li span {
+    font-size: 30px;
+    padding: 10px 2px;
+  }
+  #clock li span em {
+    font-size: 14px;
+  }
+  .pre-sale-timerr h3 {
+    font-size: 18px; 
+  }
+
+  .main-header {
+    height: 1180px;
+  }
+  .rang-slider-toltip strong { 
+    font-size: 16px; 
+  }
+  .about_text p {
+      width: 100%;
+  }
+  .main-header .header-title h1 {
+    font-size: 30px;
+}
+.sale-chart-view{
+    display: table;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 30px 0px !important;
+  }
+  .doughnut .chart-legend li .doughnut-legend-text, .doughnut .chart-legend li .line-legend-text{
+    font-size:16px; 
+  }
+  .doughnut {
+    display: block;
+  }
+  .doughnut .chart-legend {
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .doughnutChartContainer {
+    margin-right: 0;
+    margin: 0 auto;
+  }
+  /* roadmap */
+    .rbrm-line-wrapper { 
+    left: calc(0% - .05rem); 
+  }
+  .rbrm-dot-wrapper { 
+      left: 0%; 
+  }
+  .rbrm-item__col-title {
+    width: 100%;
+    padding-right: 0px; 
+    margin-left: 35px;
+  }
+  .rbrm-item { 
+    display: block;
+    justify-content: left; 
+  }
+  .rbrm-item__date { 
+    text-align: left;
+  }
+  .headline-4 { 
+    font-size: 22px;
+    text-align: left;
+  }
+  .rbrm-item__col-text {
+    width: 100%;
+    padding-left: 35px; 
+  }
+  .whitepaper_btn a {
+    padding: 25px 40px;
+  }
+  .buy_btn {
+    padding: 18px 40px;
+  }
+
+  .menu_btn_social {
+    display: inline-block !important;
+  }
+  .about_sec p {
+    width: 100%;
+    text-align: left;
+  }
+
+  .pantomm h2 {
+    font-size: 22px; 
+  }
+  .pantomm .btn {
+    margin-right: 0px;
+    margin-left: 0px; 
+  }
+  .pantomm {
+    padding: 0;
+  }
+  .panthom_text span {
+    font-size: 18px;
+  }
+  .all_footer_items {
+    display: block; 
+    text-align: center;
+  }
+  .copyright-nav a {
+    display: inline-block;
+  }
+  .copyright-nav {
+      display: inline-block;
+  }
+  .foot_logo {
+      display: block; 
+  }
+  .main-navbar .navbar-brand img {
+    margin-left: 0;
+  }
+  .top_btn {
+    margin-top: 30px;
+  }
+  .sale-chart-view {
+    padding: 10px 20px; 
+  }
+  .doughnut { 
+    display: block !important;
+  }
+  .doughnutChartContainer { 
+    left: -71px;
+    top: -29px;
+  }
+}
+  @media only screen and (min-width:320px) and (max-width:568px){
+  .download-sub-container {
+    width: 100%;
+}
+.token_chartt img {
+  width: 100%;
+}
+
+  #clock li {
+    padding: 0 8px;
+  }
+  #clock ul {
+    margin: 0 -8px;
+  }
+  #clock li span {
+    font-size: 30px;
+    padding: 10px 2px;
+  }
+  #clock li span em {
+    font-size: 14px;
+  }
+  .pre-sale-timerr h3 {
+    font-size: 18px; 
+  }
+  .main-header {
+    height: 1180px;
+  }
+
+  .rang-slider-toltip strong { 
+    font-size: 16px; 
+  }
+  .about_text p {
+      width: 100%;
+  }
+  .main-header .header-title h1 {
+    font-size: 30px;
+}
+.sale-chart-view{
+    display: table;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 30px 0px !important;
+  }
+  .doughnut .chart-legend li .doughnut-legend-text, .doughnut .chart-legend li .line-legend-text{
+    font-size:16px; 
+  }
+  .doughnut {
+    display: block;
+  }
+  .doughnut .chart-legend {
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .doughnutChartContainer {
+    margin-right: 0;
+    margin: 0 auto;
+  }
+  /* roadmap */
+    .rbrm-line-wrapper { 
+    left: calc(0% - .05rem); 
+  }
+  .rbrm-dot-wrapper { 
+      left: 0%; 
+  }
+  .rbrm-item__col-title {
+    width: 100%;
+    padding-right: 0px; 
+    margin-left: 35px;
+  }
+  .rbrm-item { 
+    display: block;
+    justify-content: left; 
+  }
+  .rbrm-item__date { 
+    text-align: left;
+  }
+  .headline-4 { 
+    font-size: 22px;
+    text-align: left;
+  }
+  .rbrm-item__col-text {
+    width: 100%;
+    padding-left: 35px; 
+  }
+  .whitepaper_btn a {
+    padding: 25px 40px;
+  }
+  .buy_btn {
+    padding: 18px 40px;
+  }
+  .menu_btn_social {
+    display: inline-block !important;
+  }
+  .about_sec p {
+    width: 100%;
+    text-align: left;
+  }
+  .pantomm h2 {
+    font-size: 22px; 
+  }
+  .pantomm .btn {
+    margin-right: 0px;
+    margin-left: 0px; 
+  }
+  .pantomm {
+    padding: 0;
+  }
+  .panthom_text span {
+    font-size: 18px;
+  }
+  .all_footer_items {
+    display: block; 
+    text-align: center;
+  }
+  .copyright-nav a {
+    display: inline-block;
+  }
+  .copyright-nav {
+      display: inline-block;
+  }
+  .foot_logo {
+      display: block; 
+  }
+  .main-navbar .navbar-brand img {
+    margin-left: 0;
+  }
+  .top_btn {
+    margin-top: 30px;
+  }
+  .sale-chart-view {
+    padding: 10px 20px; 
+  }
+  .doughnut { 
+    display: block !important; 
+  }
+  .doughnutChartContainer {
+  left: -20px;
+  top: -11px;
+  }
+}
